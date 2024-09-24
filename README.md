@@ -4,9 +4,6 @@ An application that automates the process of identifying and validating correct 
 This project provides a tool to check the correctness of statements against text extracted from PPT or PDF files using mpnet (Sentence Transformer) and GPT models.
 
 ## Project Structure
-
-statement_checker/
-
 - [main.py](https://github.com/amina042297/AI-Statement-correctness-checker/blob/main/main.py) - Main entry point for the Streamlit application
 - [functions.py](https://github.com/amina042297/AI-Statement-correctness-checker/blob/main/functions.py) -  functions for text processing and statement checking
 - [gpt_utils.py](https://github.com/amina042297/AI-Statement-correctness-checker/blob/main/gpt_utils.py) -  Functions related to GPT-4
