@@ -6,12 +6,12 @@ This project provides a tool to check the correctness of statements against text
 ## Project Structure
 
 statement_checker/
-│
-├── main.py # Main entry point for the Streamlit application
-├── functions.py # functions for text processing and statement checking
-├── gpt_utils.py # Functions related to GPT-4
-├── requirements.txt # Python dependencies required to run the project
-└── __init__.py # Marks the directory as a package
+
+- [main.py](https://github.com/amina042297/AI-Statement-correctness-checker/blob/main/main.py) - Main entry point for the Streamlit application
+- [functions.py](https://github.com/amina042297/AI-Statement-correctness-checker/blob/main/functions.py) -  functions for text processing and statement checking
+- [gpt_utils.py](https://github.com/amina042297/AI-Statement-correctness-checker/blob/main/gpt_utils.py) -  Functions related to GPT-4
+- [requirements.txt](https://github.com/amina042297/AI-Statement-correctness-checker/blob/main/requirements.txt) - Python dependencies required to run the project
+- [__init__.py](https://github.com/amina042297/AI-Statement-correctness-checker/blob/main/__init__.py) - Marks the directory as a package
 
 
 
@@ -32,4 +32,4 @@ streamlit run main.py
 
 - in Streamlite application you can upload ppt/pdf documents, write statements to check.
 
-# [This presentation includes summary of the project]()
+# [This presentation includes summary of the project](https://github.com/amina042297/AI-Statement-correctness-checker/blob/main/Term%20Project%20Presentation.pdf)
